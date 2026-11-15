@@ -1,3 +1,29 @@
+# anthropics_skills
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Public repository for Agent Skills
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+Anthropic 官方 Agent Skills 公开仓库。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 > **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io).
 
 [![skills.sh](https://skills.sh/b/anthropics/skills)](https://skills.sh/anthropics/skills)
